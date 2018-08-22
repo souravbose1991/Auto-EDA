@@ -46,7 +46,7 @@
 #' overview <-  autoEDA(x = iris)
 #'
 #' @author
-#' Xander Horn
+#' Sourav Bose
 
 autoEDA <- function(x,
                     y = NULL,
