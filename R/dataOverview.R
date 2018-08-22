@@ -22,7 +22,7 @@
 #'                           minLevelPercentage = 0.025)
 #'
 #' @author
-#' Xander Horn
+#' Sourav Bose
 
 # FUNCTION TO PROVIDE AN OVERVIEW OF DATA
 dataOverview <- function(x,
