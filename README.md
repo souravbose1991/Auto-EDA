@@ -1,17 +1,17 @@
-# autoEDA - Automated exploratory data analysis 
+# Auto-EDA - Automated Exploratory Data Analysis 
 
 ## Introduction
 
-`autoEDA` aims to automate exploratory data analysis in a univariate or bivariate manner. It has the ability to output plots created with the `ggplot2` library and themes inspired by `RColorBrewer`. The main ability involves seemlessly cleaning and pre-processing your data inorder for plots to display adequately.
+`Auto-EDA` aims to automate exploratory data analysis in a univariate or bivariate manner. It has the ability to output plots created with the `ggplot2` library and themes inspired by `RColorBrewer`. The main ability involves seemlessly cleaning and pre-processing your data inorder for plots to display adequately.
 
 ## Installation
 `install.packages('devtools')`
 
 `library(devtools)`
 
-`devtools::install_github("XanderHorn/autoEDA")`
+`devtools::install_github("souravbose1991/Auto-EDA")`
 
-`library(autoEDA)`
+`library(Auto-EDA)`
 
 ## Use
 
