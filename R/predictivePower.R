@@ -26,7 +26,7 @@
 #'                           outcomeType = "multi")
 #'
 #' @author
-#' Xander Horn
+#' Sourav Bose
 
 # PREDICTIVE POWER FUNCTION
 predictivePower <- function(x,
